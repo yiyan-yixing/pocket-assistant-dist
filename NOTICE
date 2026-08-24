@@ -1,0 +1,20 @@
+Pocket Assistant (口袋助手)
+===========================
+Copyright 2026 yiyan-yixing
+Licensed under the Apache License, Version 2.0.
+See LICENSE for the full license text.
+
+Third-party components
+----------------------
+- Qwen2.5-1.5B-Instruct — Copyright 2024 Alibaba Cloud,
+  Apache License 2.0. Redistributed/derived as GGUF (Q4_K_M),
+  further fine-tuned (SFT/DPO) and quantized by the yiyan-yixing team.
+  See models/README-model.md in the source distribution and
+  docs/release-notes-v0.1.0.md for the model card.
+
+- llama.cpp / llamadart — MIT License.
+
+Trademark disclaimer
+--------------------
+Qwen is a trademark of Alibaba Group. This product is not
+affiliated with or endorsed by Alibaba Group / the Qwen team.

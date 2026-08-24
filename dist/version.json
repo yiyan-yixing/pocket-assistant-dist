@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-08-24T00:00:00Z",
+  "app": {
+    "latest_version_name": "0.1.0",
+    "latest_version_code": 1,
+    "file_name": "pocket-assistant-0.1.0+1-arm64.apk",
+    "size_bytes": 132485817,
+    "abi": "arm64-v8a",
+    "sha256": "ec7c3250e04be257ef49dc26befaca45544bc57007b25e64d79f60ad82f91e22",
+    "download_urls": [
+      "https://github.com/yiyan-yixing/pocket-assistant-dist/releases/download/v0.1.0/pocket-assistant-0.1.0+1-arm64.apk"
+    ],
+    "download_page_url": "https://github.com/yiyan-yixing/pocket-assistant-dist/releases"
+  },
+  "models": {}
+}
